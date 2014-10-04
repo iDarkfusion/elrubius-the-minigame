@@ -18,7 +18,7 @@ PD: PARTY HARD(?
 Devs:
 
 - Lucas Jaccottet
-  ( @LJaccottet - Twitter )
+  ( @LJaccottet - Github/Twitter )
   
 - Alan Gonzalez [iDarkfusion]
-  ( @iDarkfusion - Twitter )
+  ( @iDarkfusion - Github/Twitter )

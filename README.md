@@ -1,4 +1,4 @@
-# (Spanish) ElRubiusOMG el minijuego
+# (Spanish) ElRubiusOMG El Minijuego
 
 Un videojuego creado por dos fans de 'ElRubiusOMG' (Youtuber)
   
